@@ -6,7 +6,7 @@
 
 ## How to run ##
 
-After installing all the dependencies run the command **python index.py**
+After installing all the dependencies run the command **jupyter notebook**
 
 ## Testing procedure ##
 
