@@ -1,15 +1,16 @@
-# Import dependencies using command #
+## Install dependencies using command ##
 
--->spacy
-`pip install -U spacy`
+1) Run `pip install -U spacy` to install spacy
 
--->nltk
-`sudo pip install -U nltk`
+2) Run `sudo pip install -U nltk` to install nltk
 
-After installing all the dependencies run the command ### python index.py ###
+## How to run ##
 
-Testing procedure
+After installing all the dependencies run the command ** python index.py **
 
--- The test data has been provided in text format in input.txt file.
+## Testing procedure ##
+
+-- The test data has been provided in ** input.txt ** file.
 -- After running the code submission.csv file will be created.
-* For better result add the full stop at the end of the sentence.
+
+** Note:- ** For better result add the full stop at the end of the sentence.
