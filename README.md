@@ -1,6 +1,6 @@
 ## Install dependencies using command ##
 
-1) Run `pip install -U spacy` to install spacy
+1) Run `sudo pip install -U spacy` to install spacy
 
 2) Run `sudo pip install -U nltk` to install nltk
 
