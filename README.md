@@ -1,12 +1,12 @@
-import dependencies using command
+# Import dependencies using command #
 
 -->spacy
-pip install -U spacy
+`pip install -U spacy`
 
 -->nltk
-sudo pip install -U nltk
+`sudo pip install -U nltk`
 
-After installing all the dependencies run the command python index.py
+After installing all the dependencies run the command ### python index.py ###
 
 Testing procedure
 
